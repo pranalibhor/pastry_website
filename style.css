@@ -1,0 +1,51 @@
+
+body {
+    background-color: whitesmoke;
+    padding-top: 56px;
+}
+                                    
+.carousel-item img {
+    height: 400px;
+    width: 100px;
+    object-fit:contain;
+    padding-top: 50px;
+}
+ 
+.navbar {
+    background-color:pink;
+    backdrop-filter:blur(30px);
+    box-shadow:0px 0px 30px rgba(4, 28, 245, 0.37);
+    border: 2px solid rgba(14, 3, 3, 0.18);
+
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: rgb(236, 85, 85);
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.nav-item .nav-link:hover {
+    color: lightgray;
+}
+/*
+.bannerimage{
+      padding: 150px;
+       
+}*/
+.aboutus{
+    font-size: x-large;
+    color:rgb(19, 19, 19);
+    font-family:'Times New Roman', Times, serif;
+
+}
+.text-center p-3{
+    color: aquamarine;
+}
+
+
+#footer h2{
+    background-color: aquamarine;
+    color: rgb(8, 8, 8);
+}
